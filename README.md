@@ -20,18 +20,18 @@ Interactive visualizations for better storytelling.
 
 Insights that can support AI content strategies and policymaking.
 
-🔧 Technologies Used
+## Technologies Used
 Python
 
 Jupyter Notebook
 
 Pandas
 
-Matplotlib / Seaborn / Plotly (adjust based on what you used)
+Matplotlib / Seaborn / Plotly 
 
 NumPy
 
-🚀 Getting Started
+## Getting Started
 To run the notebook locally:
 
 Clone this repo:
