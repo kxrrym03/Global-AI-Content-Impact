@@ -52,7 +52,8 @@ bash
 Copy
 Edit
 jupyter notebook
-📌 Usage
+
+## Usage
 This project is suitable for:
 
 Researchers exploring AI's global effects.
